@@ -1,0 +1,32 @@
+--2019-07-15 16:42:00--  https://api.github.com/repos/iissnan/hexo-theme-next/tarball/v5.1.4
+Resolving api.github.com (api.github.com)... 54.169.195.247
+Connecting to api.github.com (api.github.com)|54.169.195.247|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/iissnan/hexo-theme-next/legacy.tar.gz/v5.1.4 [following]
+--2019-07-15 16:42:01--  https://codeload.github.com/iissnan/hexo-theme-next/legacy.tar.gz/v5.1.4
+Resolving codeload.github.com (codeload.github.com)... 54.251.140.56
+Connecting to codeload.github.com (codeload.github.com)|54.251.140.56|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1384748 (1.3M) [application/x-gzip]
+Saving to: 'STDOUT'
+
+-                                              25%[=======================>                                                                       ] 348.91K  1.09KB/s    in 1m 43s  
+
+2019-07-15 16:58:47 (3.39 KB/s) - Read error at byte 357281/1384748 (Success). Retrying.
+
+--2019-07-15 16:58:48--  (try: 2)  https://codeload.github.com/iissnan/hexo-theme-next/legacy.tar.gz/v5.1.4
+Connecting to codeload.github.com (codeload.github.com)|54.251.140.56|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-gzip]
+Saving to: 'STDOUT'
+
+     0K .......... .......... .......... .......... .......... 65.2K
+    50K .......... .......... .......... .......... .......... 65.9K
+   100K .......... .......... .......... .......... .......... 40.7K
+   150K .......... .......... .......... .......... .......... 15.3K
+   200K .......... .......... .......... .......... .......... 10.5K
+   250K .......... .......... .......... .......... .......... 9.11K
+   300K .......... .......... .......... .......... ........   10.6K=21s
+
+
+Cannot write to '-' (Success).
